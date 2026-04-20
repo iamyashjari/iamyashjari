@@ -1,3 +1,5 @@
+<img width="1376" height="363" alt="1776420180026" src="https://github.com/user-attachments/assets/b63ba318-e427-4750-884d-d2ab04503c0f" />
+
 ## 😎 About Me
 
 - ❤️ Passionate about Software Development and Programming
