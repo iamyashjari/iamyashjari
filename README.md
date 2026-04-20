@@ -9,4 +9,4 @@
 
 ## 🤖 Technologies
 
-![Skills](https://skillicons.dev/icons?i=ts,js,next,react,redux,vite,tailwind,bootstrap,nodejs,express,mongodb,vercel,git,github,gitlab,jest,postman,figma,html,vscode,visualstudio)
+![Skills](https://skillicons.dev/icons?i=react,next,nodejs,express,js,ts,redux,mongodb,mysql,vite,vercel,html,css,tailwind,bootstrap,figma,git,github,gitlab,postman,vscode,visualstudio)
